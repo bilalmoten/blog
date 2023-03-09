@@ -4,7 +4,7 @@ title:  "How AI is Changing the Content Creation Game"
 author: Answer AI Team
 categories: [ Answer AI, tutorial ]
 image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
-<!-- tags: [summer] -->
+tags: [featured]
 ---
 Introduction:
 
@@ -32,6 +32,6 @@ AI is transforming the content creation industry, and Answer AI is leading the w
 
 Check out the [Answer AI][answerai-website] and try it out now to get the most of the latest AI Technology to improve your content. Please send feedback and all bugs/feature requests to us at [Answer AI's Official Instagram][answerai-insta]. If you have questions or queries, you can email us at [support@answerai.tech][answerai-support].
 
-[answerai-website]: https://jekyllrb.com/docs/home
+[answerai-website]: https://answerai.tech
 [answerai-insta]:  https://instagram.com/answerai.tech 
 [answerai-support]: support@answerai.tech
