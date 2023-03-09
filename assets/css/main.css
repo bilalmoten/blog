@@ -3243,8 +3243,8 @@ input[type="button"].btn-block {
     margin-bottom: -1px; }
   .nav-tabs .nav-link {
     border: 1px solid transparent;
-    border-top-left-radius: 0.25rem;
-    border-top-right-radius: 0.25rem; }
+    border-top-left-radius: 0.15rem;
+    border-top-right-radius: 0.15rem; }
     .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
       border-color: #e9ecef #e9ecef #dee2e6; }
     .nav-tabs .nav-link.disabled {
@@ -3270,12 +3270,12 @@ input[type="button"].btn-block {
   background-color: #03a87c; }
 
 .nav-fill .nav-item {
-  flex: 1 1 auto;
+  flex: 0.5 0.5 auto;
   text-align: center; }
 
 .nav-justified .nav-item {
   flex-basis: 0;
-  flex-grow: 1;
+  flex-grow:0.5;
   text-align: center; }
 
 .tab-content > .tab-pane {
