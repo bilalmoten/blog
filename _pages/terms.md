@@ -1,6 +1,6 @@
 ---
 title: "Terms and Conditions"
-permalink: "/Terms and Conditions.html"
+permalink: "/terms-and-conditions.html"
 ---
 
 Terms of Service
