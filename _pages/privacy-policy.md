@@ -38,6 +38,83 @@ This Privacy Policy is effective and will remain in effect except with respect t
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
 
-#### Contact Information
+#### Introduction
+This Privacy Policy outlines how Muhammad Bilal Moten ("we", "us", "our"), a resident of Pakistan and the creator of the Answer AI app ("the App"), collects, uses, and protects the personal information provided by users ("you", "your") of the App. By using the App, you agree to the terms of this Privacy Policy.
 
-For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact.html).
+#### Personal Information Collected
+We may collect, process, and use the following personal information from users:
+
+#### Username and User ID: 
+We collect your username and user ID to personalize your experience within the App.
+
+#### Requests Made and Responses Received: 
+We collect the requests you make through the App and the responses received to provide the services offered by the App.
+
+#### Tokens Used: 
+We collect information about the tokens used within the App to facilitate the App's functionalities.
+
+#### Purchases Made: 
+We collect information about the purchases made on the App to process and manage transactions.
+
+#### Technical Information: 
+We may collect technical information about your device, including device type, operating system, and IP address to improve the App's performance.
+
+#### Usage Information: 
+We may collect information about how you use the App, including which features you use most often, to improve the App's functionality and your experience.
+
+#### Other Information: 
+We may collect any other personal information you choose to provide to us while using the App.
+
+#### Use of Personal Information
+We use the personal information collected from users to:
+
+Provide you with the services offered by the App.
+
+Improve the App's functionality and user experience.
+
+Process transactions made on the App.
+
+Communicate with you about updates, promotions, and new features related to the App.
+
+Enforce our policies and protect the rights and safety of users of the App.
+
+####  Sharing of Personal Information
+We do not share personal information collected from users with third parties except in the following cases:
+
+With your consent.
+
+To comply with legal obligations or protect our rights and safety.
+
+To provide technical support or services related to the App.
+
+In the event of a merger, acquisition, or sale of assets of the company.
+
+#### Security of Personal Information
+We take appropriate measures to protect the personal information collected from users, including the use of encryption and other security technologies.
+
+####  Subscription Terms
+The App offers paid subscription services. By subscribing to the App, you agree to the following terms:
+
+Subscription fees are charged at the beginning of each billing period.
+
+Subscription fees are non-refundable.
+
+Subscriptions automatically renew unless cancelled.
+
+####  Age Criteria
+The App is intended for use by individuals over the age of 13. We do not knowingly collect personal information from individuals under the age of 13.
+
+#### App Functionality
+The App offers both free and paid features. Paid features are clearly indicated and require payment to use.
+
+#### Dispute Resolution and Legal System
+Any disputes arising from or related to this Privacy Policy shall be resolved through arbitration in accordance with the laws of Pakistan.
+
+#### Contact Information
+If you have any questions or concerns about this Privacy Policy or our use of your personal information, please contact us at support@answerai.tech.
+
+#### Changes to Privacy Policy
+#### We reserve the right to update or modify this Privacy Policy at any time. Any changes to this Privacy Policy will be posted on the App and will be effective immediately upon posting.
+
+#### Thank you for taking the time to review this Privacy Policy.
+
