@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About Us
-permalink: "/about-us.html
+permalink: "/about-us.html"
 ---
+
 
 ## Who We Are
 
