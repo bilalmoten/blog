@@ -16,9 +16,9 @@ Your first step is to create your personal account on our platform. Visit https:
 
 Once your account is ready, send us an email at support@answerai.tech with the following details:
 
-> Your Answer AI account email address.
+> * Your Answer AI account email address.
 > 
-> The unique coupon code you received from AppSumo.
+> * The unique coupon code you received from AppSumo.
 
 Our dedicated support team will take care of the rest, ensuring your one-year premium subscription is activated promptly.
 
