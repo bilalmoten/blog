@@ -3,7 +3,7 @@ title: "Account Deletion For Answer AI"
 permalink: "/account-deletion.html"
 ---
 
-"{{site.name}}" takes your privacy seriously. If you wish to delete your account and all associated data from Answer AI, please follow the steps below:
+"Answer AI" takes your privacy seriously. If you wish to delete your account and all associated data from Answer AI, please follow the steps below:
 
 ### Account Deletion Process
 
@@ -22,3 +22,7 @@ Thank you for choosing Answer AI.
 
 #### Contact Information
 If you have any questions or concerns about the account deletion process or our use of your personal information, please contact us at [support@answerai.tech](mailto:support@answerai.tech).
+
+App Name: Answer AI
+Developer Name: Muhammad Bilal Moten
+Company Name: Nisa Technologies
