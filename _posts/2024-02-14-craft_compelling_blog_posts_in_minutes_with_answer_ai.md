@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title:  "Craft Compelling Blog Posts in Minutes with Answer AI"
